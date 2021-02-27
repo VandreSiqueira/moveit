@@ -87,7 +87,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para m
 
 ---
 
-Feito com :purple_heart: by [Rafael Martins](https://github.com/martins-rafael)
+Projetado por [Vandré Siqueira](https://github.com/VandreSiqueira)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-6E40C9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vandreifpe@gmail.com-6E40C9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vandreifpe@gmail.com)](mailto:vandreifpe@gmail.com)
